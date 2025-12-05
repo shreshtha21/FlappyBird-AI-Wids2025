@@ -59,6 +59,8 @@ Colab provides:
 
 ### Recommended Resource
 - [W3Schools NumPy Tutorial](https://www.w3schools.com/python/numpy/default.asp)
+- [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
+- [Video Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
 ### Practice Ideas
 - Create a 2D array & compute mean, max, min  
@@ -77,6 +79,8 @@ We'll use **Matplotlib** to visualize training:
 
 ### Recommended Resource
 - [Matplotlib Official Website](https://matplotlib.org/)
+- [W3Schools Matplotlib tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)
+- [Video Tutorial](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 
 ### Practice Ideas
 - Plot `y = x²` for `x = 0…10`  
@@ -98,6 +102,7 @@ You’ll learn:
 ### Recommended Resources
 - [PyGame Tutorial for Beginners – freeCodeCamp](https://youtu.be/FfWpgLFMI7w?feature=shared)  
 - [PyGame Documentation](https://www.pygame.org/docs/)
+- [Geeks for Geeks tutorial](https://www.geeksforgeeks.org/python/pygame-tutorial/)
 
 ### 📝 Practice Ideas
 - Draw a moving circle ("bird")  
